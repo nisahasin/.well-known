@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.mhcasia.mhcrainbow",
+    "sha256_cert_fingerprints":
+    ["2F:A3:E3:FE:FA:7C:4A:6B:B4:D7:25:C4:22:9E:57:DC:26:DE:36:8D:26:36:29:CA:EE:AE:A1:42:2D:A2:A2:71"]
+  }
+}]
